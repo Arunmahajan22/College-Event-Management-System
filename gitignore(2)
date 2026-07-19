@@ -1,0 +1,19 @@
+# Oracle SQL Developer
+*.log
+*.lck
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.csv
+*.xlsx
+
+# Environment
+.env
