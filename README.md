@@ -91,14 +91,11 @@ Hackathon  Seminar  Workshop
 
 ---
 
-# 🧩 ER Diagram
+## 🧩 ER Diagram
 
-> Replace this placeholder after uploading your diagram.
-
-```md
-![ER Diagram](assets/er-diagram.png)
-```
-
+<p align="center">
+  <img src="ER-diagram.png" alt="ER Diagram" width="850">
+</p>
 ---
 
 # ⚙️ Database Modules
